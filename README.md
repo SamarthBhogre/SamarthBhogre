@@ -1,4 +1,4 @@
-###👋 Hey there!
+### 👋 Hey there!
 
   - 🔭 Currently diving into an exciting Collage Project
   - 🌱 On a journey to master Python
