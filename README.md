@@ -1,11 +1,9 @@
-### Hi there 👋
+###👋 Hey there!
 
-- 🔭 I’m currently working on Collage Project
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with My Collage project
-- 💬 Ask me about Web Development
-- 📫 How to reach me: https://twitter.com/SamarthBhogre
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Ola launched India's First AI krutrim
-
+🔭 Currently diving into an exciting Collage Project
+🌱 On a journey to master Python
+👯 Open to collaborations on innovative Python Projects
+💬 Ask me anything about Web Development
+📫 Let's connect on Twitter
+😄 Pronouns: he/him
+⚡ Fun fact: Did you know? The latest AI models can now compose music that sounds indistinguishable from human-made tracks!
