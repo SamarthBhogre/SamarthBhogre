@@ -32,7 +32,7 @@ public class SamarthBhogre {
     String[] currentlyWorking  = {"Exciting new Java project 🔭"};
     String[] learning          = {"Advanced Java", "System Design", "DSA"};
     String[] openTo            = {"Innovative Java Collaborations 👯"};
-    String[] askMeAbout        = {"Software Engineering", "Java", "Web Dev 💬"};
+    String[] askMeAbout        = {"Software Developer", "Java", "Web Dev 💬"};
     String   funFact            = "Latest AI models compose music indistinguishable from humans! 🎵";
 
     void connect() {
