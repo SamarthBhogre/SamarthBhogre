@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 ```java
 public class SamarthBhogre {
@@ -43,7 +43,7 @@ public class SamarthBhogre {
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -57,7 +57,7 @@ public class SamarthBhogre {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ public class SamarthBhogre {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -102,7 +102,7 @@ public class SamarthBhogre {
 
 ---
 
-## 🔝 Top Contributed Repos
+##  Top Contributed Repos
 
 <div align="center">
 
@@ -112,7 +112,7 @@ public class SamarthBhogre {
 
 ---
 
-## ✍️ Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
 
@@ -122,7 +122,7 @@ public class SamarthBhogre {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
